@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "nameASREW",
+      "email": "email@gmail.com",
+      "address": "srwe",
+      "state": "aserw",
+      "pincode": 12354562,
+      "id": 2
+    },
+    {
+      "name": "nameksjeqw",
+      "email": "email@gmail.com",
+      "address": "aksdjw",
+      "state": "stae",
+      "pincode": 1234567,
+      "id": 3
+    },
+    {
+      "name": "amsrnwe",
+      "email": "email@gail.com",
+      "address": "skjdr",
+      "state": "sk",
+      "pincode": 12314363,
+      "id": 4
+    },
+    {
+      "name": "namekser",
+      "email": "email@gmail.com",
+      "address": "skjer",
+      "state": "ksjerw",
+      "pincode": 1234567,
+      "id": 5
+    },
+    {
+      "name": "namekser",
+      "email": "email@gmail.com",
+      "address": "skjer",
+      "state": "ksjerw",
+      "pincode": 12345677,
+      "id": 6
+    },
+    {
+      "name": "namebui",
+      "email": "jnu@gmail.com",
+      "address": "hbh",
+      "state": "hbyu",
+      "pincode": 987655,
+      "id": 7
+    },
+    {
+      "name": "namebui",
+      "email": "jnu@gmail.com",
+      "address": "hbh",
+      "state": "hbyu",
+      "pincode": 987655,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

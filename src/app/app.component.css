@@ -1,0 +1,18 @@
+.navbar{
+  background-color: #5D8BF4 !important;
+  font-weight:500;
+  height: 70px
+}
+.navbar-brand{
+  padding-left: 2%;
+}
+.btn{
+  border: 1px solid white;
+  color: white;
+  margin-right: 30px;
+  font-weight: 500;
+}
+.btn:hover{
+  background-color:white;
+  color: #2D31FA;
+}
